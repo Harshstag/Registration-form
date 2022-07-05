@@ -2,7 +2,7 @@
 
 Se Assignment 2 Regestration form Python -MyQql
 
->> first Open form.py file to fread the source code 
+>> first Open form.py file to read the source code 
 >> 
 >> Second, Run form.py to execute the student regestration form
 >> 
